@@ -1,0 +1,65 @@
+[ 2018-02-20 18:00:15,349][cascade_classifier.transform] X_groups_test.shape=[(72, 1, 24, 3)]
+[ 2018-02-20 18:01:35,025][cascade_classifier.transform] X_groups_test.shape=[(72, 1, 24, 3)]
+[ 2018-02-20 18:01:40,998][cascade_classifier.transform] X_groups_test.shape=[(72, 1, 24, 3)]
+[ 2018-02-20 18:02:37,374][cascade_classifier.transform] X_groups_test.shape=[(72, 1, 24, 3)]
+[ 2018-02-20 19:41:20,006][cascade_classifier.transform] X_groups_test.shape=[(72, 1, 24, 3)]
+[ 2018-02-20 19:42:09,483][cascade_classifier.transform] X_groups_test.shape=[(72, 1, 24, 3)]
+[ 2018-02-20 19:45:14,391][cascade_classifier.transform] X_groups_test.shape=[(72, 24, 3)]
+[ 2018-02-20 19:45:56,098][cascade_classifier.transform] X_groups_test.shape=[(72, 24, 3)]
+[ 2018-02-20 19:47:54,966][cascade_classifier.transform] X_groups_test.shape=[(72, 24, 3)]
+[ 2018-02-20 19:48:17,082][cascade_classifier.transform] X_groups_test.shape=[(1, 72, 24, 3)]
+[ 2018-02-20 19:48:17,083][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 19:48:17,084][cascade_classifier.transform] X_test.shape=(1, 5184)
+[ 2018-02-20 19:48:17,085][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 5184)
+[ 2018-02-20 19:49:29,496][cascade_classifier.transform] X_groups_test.shape=[(1, 72, 24, 3)]
+[ 2018-02-20 19:49:29,497][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 19:49:29,498][cascade_classifier.transform] X_test.shape=(1, 5184)
+[ 2018-02-20 19:49:29,499][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 5184)
+[ 2018-02-20 19:49:52,242][cascade_classifier.transform] X_groups_test.shape=[(1, 72, 24, 3)]
+[ 2018-02-20 19:49:52,243][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 19:49:52,244][cascade_classifier.transform] X_test.shape=(1, 5184)
+[ 2018-02-20 19:49:52,245][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 5184)
+[ 2018-02-20 19:51:15,058][cascade_classifier.transform] X_groups_test.shape=[(1, 72, 24, 3)]
+[ 2018-02-20 19:51:15,060][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 19:51:15,061][cascade_classifier.transform] X_test.shape=(1, 5184)
+[ 2018-02-20 19:51:15,061][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 5184)
+[ 2018-02-20 19:59:11,304][cascade_classifier.transform] X_groups_test.shape=[(8, 72, 24, 3)]
+[ 2018-02-20 19:59:11,305][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 19:59:11,306][cascade_classifier.transform] X_test.shape=(8, 5184)
+[ 2018-02-20 19:59:11,307][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(8, 5184)
+[ 2018-02-20 20:03:59,135][cascade_classifier.transform] X_groups_test.shape=[(1, 72, 24, 3)]
+[ 2018-02-20 20:03:59,136][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:03:59,137][cascade_classifier.transform] X_test.shape=(1, 5184)
+[ 2018-02-20 20:03:59,138][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 5184)
+[ 2018-02-20 20:04:30,479][cascade_classifier.transform] X_groups_test.shape=[(1, 72, 24, 3)]
+[ 2018-02-20 20:04:30,480][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:04:30,481][cascade_classifier.transform] X_test.shape=(1, 5184)
+[ 2018-02-20 20:04:30,482][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 5184)
+[ 2018-02-20 20:06:36,195][cascade_classifier.transform] X_groups_test.shape=[(1, 72, 24, 3)]
+[ 2018-02-20 20:06:36,197][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:06:36,197][cascade_classifier.transform] X_test.shape=(1, 5184)
+[ 2018-02-20 20:06:36,198][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 5184)
+[ 2018-02-20 20:07:14,048][cascade_classifier.transform] X_groups_test.shape=[(1, 72, 24, 3)]
+[ 2018-02-20 20:07:14,049][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:07:14,050][cascade_classifier.transform] X_test.shape=(1, 5184)
+[ 2018-02-20 20:07:14,051][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 5184)
+[ 2018-02-20 20:08:28,295][cascade_classifier.transform] X_groups_test.shape=[(8, 72, 24, 3)]
+[ 2018-02-20 20:08:28,297][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:08:28,298][cascade_classifier.transform] X_test.shape=(8, 5184)
+[ 2018-02-20 20:08:28,299][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(8, 5184)
+[ 2018-02-20 20:09:46,222][cascade_classifier.transform] X_groups_test.shape=[(7, 72, 24, 3)]
+[ 2018-02-20 20:09:46,224][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:09:46,224][cascade_classifier.transform] X_test.shape=(7, 5184)
+[ 2018-02-20 20:09:46,225][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(7, 5184)
+[ 2018-02-20 20:26:41,291][cascade_classifier.transform] X_groups_test.shape=[(7, 72, 24, 3)]
+[ 2018-02-20 20:26:41,292][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:26:41,293][cascade_classifier.transform] X_test.shape=(7, 5184)
+[ 2018-02-20 20:26:41,294][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(7, 5184)
+[ 2018-02-20 20:27:38,828][cascade_classifier.transform] X_groups_test.shape=[(7, 72, 24, 3)]
+[ 2018-02-20 20:27:38,830][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:27:38,831][cascade_classifier.transform] X_test.shape=(7, 5184)
+[ 2018-02-20 20:27:38,831][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(7, 5184)
+[ 2018-02-20 20:28:07,621][cascade_classifier.transform] X_groups_test.shape=[(7, 72, 24, 3)]
+[ 2018-02-20 20:28:07,622][cascade_classifier.transform] group_dims=[5184]
+[ 2018-02-20 20:28:07,623][cascade_classifier.transform] X_test.shape=(7, 5184)
+[ 2018-02-20 20:28:07,623][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(7, 5184)
